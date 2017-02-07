@@ -9,7 +9,6 @@ namespace ConsoleApplicationTest1
   {
     static void Main(string[] args)
     {
-      //CHANGE 1
     }
   }
 }
